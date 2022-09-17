@@ -8,7 +8,6 @@ div{
     border-left: 35px solid brown;
     padding: 5px 10px 15px 20px;
     margin: 35px 5px 15px 15px;
-    background-image: url("https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif");
     height: 350px;
     width: 350px;
 }
@@ -39,6 +38,8 @@ div{
     padding: 5px 10px 15px 20px;
     margin: 35px 5px 15px 15px;
     background-color: aqua;
+    text-align: center;
+
 }
 
 #midiv{
